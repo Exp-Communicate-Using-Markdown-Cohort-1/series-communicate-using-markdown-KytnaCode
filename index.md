@@ -16,3 +16,7 @@ func main() {
   fmt.Println("Hello World")
 }
 ```
+
+- [ ] learn more about github and github actions
+- [ ] try the first stable verion of SurrealDB
+- [ ] create my own open source project 
